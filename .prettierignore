@@ -1,0 +1,3 @@
+**/__generated__/**/*
+src/globalTypes.ts
+.eslintrc.json

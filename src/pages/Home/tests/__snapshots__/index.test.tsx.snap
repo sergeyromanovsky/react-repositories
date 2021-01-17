@@ -1,0 +1,585 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Home page Should fetch data and match snapshot 1`] = `
+<body>
+  <div>
+    <div
+      class="sc-gKsewC iHuIWH"
+    >
+      <h1
+        class="sc-iBPRYJ cAPLjL"
+      >
+        Test Task
+      </h1>
+      <div
+        class="sc-dlfnbm cYiCfa"
+      >
+        <div
+          class="sc-hKgILt cnvXHn"
+        >
+          name
+        </div>
+        <div
+          class="sc-hKgILt cnvXHn"
+        >
+          🌟 stars
+        </div>
+        <div
+          class="sc-hKgILt cnvXHn"
+        >
+          🍴 forks
+        </div>
+      </div>
+      <div
+        style="height: 100%; width: 100%;"
+      >
+        <div
+          style="overflow: visible; height: 0px; width: 0px;"
+        >
+          <div
+            style="position: relative; height: 1000px; width: 1000px; overflow: auto; will-change: transform; direction: ltr;"
+          >
+            <div
+              style="height: 1508px; width: 100%;"
+            >
+              <div
+                class="sc-jSgupP dViByq"
+                style="position: absolute; left: 0px; top: 0px; height: 58px; width: 100%;"
+              >
+                <div
+                  class="sc-eCssSg kNKupr"
+                >
+                  <a
+                    href="https://reactjs.org"
+                    rel="noopener noreferrer"
+                    target="_blank"
+                  >
+                    react
+                  </a>
+                </div>
+                <div
+                  class="sc-eCssSg kNKupr"
+                >
+                  151,376
+                </div>
+                <div
+                  class="sc-eCssSg kNKupr"
+                >
+                  28,367
+                </div>
+              </div>
+              <div
+                class="sc-jSgupP hQqFdP"
+                style="position: absolute; left: 0px; top: 58px; height: 58px; width: 100%;"
+              >
+                <div
+                  class="sc-eCssSg kNKupr"
+                >
+                  <a
+                    href=""
+                    rel="noopener noreferrer"
+                    target="_blank"
+                  >
+                    ReactiveCocoa
+                  </a>
+                </div>
+                <div
+                  class="sc-eCssSg kNKupr"
+                >
+                  19,835
+                </div>
+                <div
+                  class="sc-eCssSg kNKupr"
+                >
+                  3,408
+                </div>
+              </div>
+              <div
+                class="sc-jSgupP ikAyZY"
+                style="position: absolute; left: 0px; top: 116px; height: 58px; width: 100%;"
+              >
+                <div
+                  class="sc-eCssSg kNKupr"
+                >
+                  <a
+                    href="https://reactnative.dev"
+                    rel="noopener noreferrer"
+                    target="_blank"
+                  >
+                    react-native
+                  </a>
+                </div>
+                <div
+                  class="sc-eCssSg kNKupr"
+                >
+                  88,378
+                </div>
+                <div
+                  class="sc-eCssSg kNKupr"
+                >
+                  18,817
+                </div>
+              </div>
+              <div
+                class="sc-jSgupP fonxks"
+                style="position: absolute; left: 0px; top: 174px; height: 58px; width: 100%;"
+              >
+                <div
+                  class="sc-eCssSg kNKupr"
+                >
+                  <a
+                    href="https://nextjs.org"
+                    rel="noopener noreferrer"
+                    target="_blank"
+                  >
+                    next.js
+                  </a>
+                </div>
+                <div
+                  class="sc-eCssSg kNKupr"
+                >
+                  50,223
+                </div>
+                <div
+                  class="sc-eCssSg kNKupr"
+                >
+                  7,560
+                </div>
+              </div>
+              <div
+                class="sc-jSgupP kdGhst"
+                style="position: absolute; left: 0px; top: 232px; height: 58px; width: 100%;"
+              >
+                <div
+                  class="sc-eCssSg kNKupr"
+                >
+                  <a
+                    href="https://reacttraining.com/react-router/"
+                    rel="noopener noreferrer"
+                    target="_blank"
+                  >
+                    react-router
+                  </a>
+                </div>
+                <div
+                  class="sc-eCssSg kNKupr"
+                >
+                  41,006
+                </div>
+                <div
+                  class="sc-eCssSg kNKupr"
+                >
+                  8,017
+                </div>
+              </div>
+              <div
+                class="sc-jSgupP cJglLV"
+                style="position: absolute; left: 0px; top: 290px; height: 58px; width: 100%;"
+              >
+                <div
+                  class="sc-eCssSg kNKupr"
+                >
+                  <a
+                    href="https://create-react-app.dev"
+                    rel="noopener noreferrer"
+                    target="_blank"
+                  >
+                    create-react-app
+                  </a>
+                </div>
+                <div
+                  class="sc-eCssSg kNKupr"
+                >
+                  79,900
+                </div>
+                <div
+                  class="sc-eCssSg kNKupr"
+                >
+                  18,511
+                </div>
+              </div>
+              <div
+                class="sc-jSgupP jZToaN"
+                style="position: absolute; left: 0px; top: 348px; height: 58px; width: 100%;"
+              >
+                <div
+                  class="sc-eCssSg kNKupr"
+                >
+                  <a
+                    href=""
+                    rel="noopener noreferrer"
+                    target="_blank"
+                  >
+                    awesome-react
+                  </a>
+                </div>
+                <div
+                  class="sc-eCssSg kNKupr"
+                >
+                  37,532
+                </div>
+                <div
+                  class="sc-eCssSg kNKupr"
+                >
+                  4,198
+                </div>
+              </div>
+              <div
+                class="sc-jSgupP lcHHNU"
+                style="position: absolute; left: 0px; top: 406px; height: 58px; width: 100%;"
+              >
+                <div
+                  class="sc-eCssSg kNKupr"
+                >
+                  <a
+                    href="https://www.reactboilerplate.com"
+                    rel="noopener noreferrer"
+                    target="_blank"
+                  >
+                    react-boilerplate
+                  </a>
+                </div>
+                <div
+                  class="sc-eCssSg kNKupr"
+                >
+                  25,789
+                </div>
+                <div
+                  class="sc-eCssSg kNKupr"
+                >
+                  5,038
+                </div>
+              </div>
+              <div
+                class="sc-jSgupP wMvqE"
+                style="position: absolute; left: 0px; top: 464px; height: 58px; width: 100%;"
+              >
+                <div
+                  class="sc-eCssSg kNKupr"
+                >
+                  <a
+                    rel="noopener noreferrer"
+                    target="_blank"
+                  >
+                    react-demos
+                  </a>
+                </div>
+                <div
+                  class="sc-eCssSg kNKupr"
+                >
+                  15,167
+                </div>
+                <div
+                  class="sc-eCssSg kNKupr"
+                >
+                  6,234
+                </div>
+              </div>
+              <div
+                class="sc-jSgupP dPSHRb"
+                style="position: absolute; left: 0px; top: 522px; height: 58px; width: 100%;"
+              >
+                <div
+                  class="sc-eCssSg kNKupr"
+                >
+                  <a
+                    href=""
+                    rel="noopener noreferrer"
+                    target="_blank"
+                  >
+                    react-redux-starter-kit
+                  </a>
+                </div>
+                <div
+                  class="sc-eCssSg kNKupr"
+                >
+                  10,405
+                </div>
+                <div
+                  class="sc-eCssSg kNKupr"
+                >
+                  2,217
+                </div>
+              </div>
+              <div
+                class="sc-jSgupP eaWqSv"
+                style="position: absolute; left: 0px; top: 580px; height: 58px; width: 100%;"
+              >
+                <div
+                  class="sc-eCssSg kNKupr"
+                >
+                  <a
+                    href="https://reactnavigation.org"
+                    rel="noopener noreferrer"
+                    target="_blank"
+                  >
+                    react-navigation
+                  </a>
+                </div>
+                <div
+                  class="sc-eCssSg kNKupr"
+                >
+                  18,358
+                </div>
+                <div
+                  class="sc-eCssSg kNKupr"
+                >
+                  3,690
+                </div>
+              </div>
+              <div
+                class="sc-jSgupP eHPjav"
+                style="position: absolute; left: 0px; top: 638px; height: 58px; width: 100%;"
+              >
+                <div
+                  class="sc-eCssSg kNKupr"
+                >
+                  <a
+                    href="https://react-select.com/"
+                    rel="noopener noreferrer"
+                    target="_blank"
+                  >
+                    react-select
+                  </a>
+                </div>
+                <div
+                  class="sc-eCssSg kNKupr"
+                >
+                  20,375
+                </div>
+                <div
+                  class="sc-eCssSg kNKupr"
+                >
+                  3,303
+                </div>
+              </div>
+              <div
+                class="sc-jSgupP cdyLAj"
+                style="position: absolute; left: 0px; top: 696px; height: 58px; width: 100%;"
+              >
+                <div
+                  class="sc-eCssSg kNKupr"
+                >
+                  <a
+                    href="https://reactioncommerce.com/"
+                    rel="noopener noreferrer"
+                    target="_blank"
+                  >
+                    reaction
+                  </a>
+                </div>
+                <div
+                  class="sc-eCssSg kNKupr"
+                >
+                  10,295
+                </div>
+                <div
+                  class="sc-eCssSg kNKupr"
+                >
+                  1,830
+                </div>
+              </div>
+              <div
+                class="sc-jSgupP kWzpWE"
+                style="position: absolute; left: 0px; top: 754px; height: 58px; width: 100%;"
+              >
+                <div
+                  class="sc-eCssSg kNKupr"
+                >
+                  <a
+                    href="http://streamich.github.io/react-use"
+                    rel="noopener noreferrer"
+                    target="_blank"
+                  >
+                    react-use
+                  </a>
+                </div>
+                <div
+                  class="sc-eCssSg kNKupr"
+                >
+                  13,637
+                </div>
+                <div
+                  class="sc-eCssSg kNKupr"
+                >
+                  880
+                </div>
+              </div>
+              <div
+                class="sc-jSgupP jQqFAR"
+                style="position: absolute; left: 0px; top: 812px; height: 58px; width: 100%;"
+              >
+                <div
+                  class="sc-eCssSg kNKupr"
+                >
+                  <a
+                    href="https://react-redux.js.org"
+                    rel="noopener noreferrer"
+                    target="_blank"
+                  >
+                    react-redux
+                  </a>
+                </div>
+                <div
+                  class="sc-eCssSg kNKupr"
+                >
+                  19,664
+                </div>
+                <div
+                  class="sc-eCssSg kNKupr"
+                >
+                  2,781
+                </div>
+              </div>
+              <div
+                class="sc-jSgupP cfMaOh"
+                style="position: absolute; left: 0px; top: 870px; height: 58px; width: 100%;"
+              >
+                <div
+                  class="sc-eCssSg kNKupr"
+                >
+                  <a
+                    href="https://storybook.js.org"
+                    rel="noopener noreferrer"
+                    target="_blank"
+                  >
+                    storybook
+                  </a>
+                </div>
+                <div
+                  class="sc-eCssSg kNKupr"
+                >
+                  49,708
+                </div>
+                <div
+                  class="sc-eCssSg kNKupr"
+                >
+                  4,717
+                </div>
+              </div>
+              <div
+                class="sc-jSgupP jEAQcd"
+                style="position: absolute; left: 0px; top: 928px; height: 58px; width: 100%;"
+              >
+                <div
+                  class="sc-eCssSg kNKupr"
+                >
+                  <a
+                    href="https://react-bootstrap.github.io/"
+                    rel="noopener noreferrer"
+                    target="_blank"
+                  >
+                    react-bootstrap
+                  </a>
+                </div>
+                <div
+                  class="sc-eCssSg kNKupr"
+                >
+                  17,884
+                </div>
+                <div
+                  class="sc-eCssSg kNKupr"
+                >
+                  2,778
+                </div>
+              </div>
+              <div
+                class="sc-jSgupP euFvMh"
+                style="position: absolute; left: 0px; top: 986px; height: 58px; width: 100%;"
+              >
+                <div
+                  class="sc-eCssSg kNKupr"
+                >
+                  <a
+                    href="http://marmelab.com/react-admin"
+                    rel="noopener noreferrer"
+                    target="_blank"
+                  >
+                    react-admin
+                  </a>
+                </div>
+                <div
+                  class="sc-eCssSg kNKupr"
+                >
+                  13,246
+                </div>
+                <div
+                  class="sc-eCssSg kNKupr"
+                >
+                  2,830
+                </div>
+              </div>
+              <div
+                class="sc-jSgupP ewmUxT"
+                style="position: absolute; left: 0px; top: 1044px; height: 58px; width: 100%;"
+              >
+                <div
+                  class="sc-eCssSg kNKupr"
+                >
+                  <a
+                    href="http://www.reactvirtualized.com"
+                    rel="noopener noreferrer"
+                    target="_blank"
+                  >
+                    react-virtualized
+                  </a>
+                </div>
+                <div
+                  class="sc-eCssSg kNKupr"
+                >
+                  19,409
+                </div>
+                <div
+                  class="sc-eCssSg kNKupr"
+                >
+                  2,321
+                </div>
+              </div>
+              <div
+                class="sc-jSgupP fRtwUc"
+                style="position: absolute; left: 0px; top: 1102px; height: 58px; width: 100%;"
+              >
+                <div
+                  class="sc-eCssSg kNKupr"
+                >
+                  <a
+                    href="https://necolas.github.io/react-native-web/docs"
+                    rel="noopener noreferrer"
+                    target="_blank"
+                  >
+                    react-native-web
+                  </a>
+                </div>
+                <div
+                  class="sc-eCssSg kNKupr"
+                >
+                  16,867
+                </div>
+                <div
+                  class="sc-eCssSg kNKupr"
+                >
+                  1,347
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          class="resize-triggers"
+        >
+          <div
+            class="expand-trigger"
+          >
+            <div
+              style="width: 1001px; height: 1001px;"
+            />
+          </div>
+          <div
+            class="contract-trigger"
+          />
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+`;
